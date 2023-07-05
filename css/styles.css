@@ -10,6 +10,12 @@ body {
     background-color: #f2f2f2;
     padding: 20px;
   }
+
+  header img {
+    width: 50px; /* Ajusta el ancho deseado */
+    height: auto; /* Esto mantiene la proporción de aspecto original */
+    margin-right: 10px; /* Agrega margen derecho para separar el logo del título */
+  }
   
   nav ul {
     list-style-type: none;
