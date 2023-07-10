@@ -12,7 +12,7 @@ body {
   }
 
   header img {
-    width: 50px; /* Ajusta el ancho deseado */
+    width: 100px; /* Ajusta el ancho deseado */
     height: auto; /* Esto mantiene la proporción de aspecto original */
     margin-right: 10px; /* Agrega margen derecho para separar el logo del título */
   }
